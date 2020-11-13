@@ -21,6 +21,6 @@ Add **Last Pass** extension to Firefox
 
 Change SublimeText keymap (\~/.config/sublime-text-3/Packages/User).
 
-## Links
+## 🌐 Links
 
 - [Markdown Syntax](https://www.markdownguide.org/basic-syntax/)
