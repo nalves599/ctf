@@ -1,10 +1,8 @@
-# CTF
+# 🚩 CTF
 
-## System Preparation
+## 🛠 System Preparation
 
-Install _Ubuntu LTS 20.04_.
-
-**[!CHANGE RESOLUTION!](https://virtualizationreview.com/Blogs/virtual-Insider/2014/09/change-ubuntu-resolution-on-hyper-v-vm.aspx)**
+Install _Ubuntu LTS 20.04_. **Useful link to [change resolution](https://virtualizationreview.com/Blogs/virtual-Insider/2014/09/change-ubuntu-resolution-on-hyper-v-vm.aspx)**
 
 Install some tools:
 - nmap
